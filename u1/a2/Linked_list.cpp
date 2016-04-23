@@ -6,7 +6,7 @@ using std::endl ;
 
 //Linked_list::
 	Linked_list::Linked_list(string name):
-	  _next(NULL), _name(name)
+	  _name(name),  _next(NULL)
 	{
 
 	}

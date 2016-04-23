@@ -6,7 +6,7 @@ using std::string ;
 class Linked_list {
 private:
 	string _name;
-	Linked_list* _next ;
+	Linked_list* _next = NULL ;
 public:
 	Linked_list(string name);
     void set(string name);
