@@ -1,0 +1,1 @@
+ich benutze zu Hause  windows , und libstdc++-6.dll ist wichtig um .exe zu auszuführen! 
