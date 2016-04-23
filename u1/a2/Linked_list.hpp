@@ -17,4 +17,5 @@ public:
     Linked_list* remove_at_index(unsigned int index);
 
 };
+
 #endif
